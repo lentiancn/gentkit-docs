@@ -4,7 +4,7 @@
 
 ## 字体
 
-阿里巴巴普惠体3.0： 获取[字体文件](/fonts/AlibabaPuHuiTi-3)或至[官方网站](https://www.alibabafonts.com/#/font)
+阿里巴巴普惠体3.0： 获取[字体文件](/assets/fonts/AlibabaPuHuiTi-3)或至[官方网站](https://www.alibabafonts.com/#/font)
 
 ## 许可证
 
