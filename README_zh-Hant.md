@@ -6,6 +6,8 @@
 
 阿里巴巴普惠体3.0： 取得[字型檔案](/assets/fonts/AlibabaPuHuiTi-3)或至[官方網站](https://www.alibabafonts.com/#/font)
 
+淘宝买菜体： 取得[字型檔案](/assets/fonts/TaoBaoMaiCaiTi)或至[官方網站](https://www.alibabafonts.com/#/more)
+
 ## 圖標
 
 扁平卡通矢量圖標：取得[圖標檔案](/assets/images/Flat%20Cartoon%20Vector%20Icon)

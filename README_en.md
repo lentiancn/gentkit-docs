@@ -4,8 +4,11 @@ English | [简体中文](README.md) | [繁體中文](README_zh-Hant.md)
 
 ## Font
 
-Alibaba PuHui Ti 3.0: Get [the font file](/assets/fonts/AlibabaPuHuiTi-3) or
+AlibabaPuHuiTi3.0: Get [the font file](/assets/fonts/AlibabaPuHuiTi-3) or
 visit [the official website](https://www.alibabafonts.com/#/font)
+
+TaoBaoMaiCaiTi: Get [the font file](/assets/fonts/TaoBaoMaiCaiTi) or
+visit [the official website](https://www.alibabafonts.com/#/more)
 
 ## Icon
 
